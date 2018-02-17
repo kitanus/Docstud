@@ -1,0 +1,3 @@
+C:\Users\01>cd C:\openserver\domains\books.ru
+
+C:\OpenServer\domains\books.ru>C:\openserver\modules\php\PHP-5.6\php.exe C:\openserver\domains\books.ru\composer.phar install

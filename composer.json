@@ -1,0 +1,18 @@
+{
+    "name": "IT-park v.1",
+    "description": "Project v.1",
+    "license": "private",
+    "keywords": [
+        "framework"
+    ],
+    "homepage": "https://doctud/",
+    "autoload": {
+        "psr-0": {
+            "Docstud\\": "library/"
+        }
+    },
+    "require": {
+        "smarty/smarty": "3.1.*",
+		"phpoffice/phpword": "v0.14.*"
+    }
+}
